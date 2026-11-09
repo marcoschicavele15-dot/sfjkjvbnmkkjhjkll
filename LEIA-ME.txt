@@ -1,0 +1,17 @@
+# Educação para Todos — Abandono Escolar
+
+Website académico responsivo sobre o abandono escolar e as suas consequências.
+
+## Como abrir
+1. Extraia o ficheiro ZIP.
+2. Abra a pasta `abandono_escolar_site`.
+3. Faça duplo clique em `index.html` ou abra-o num navegador (Chrome, Firefox, Edge).
+4. Para publicar, envie os três ficheiros (`index.html`, `style.css`, `script.js`) para o GitHub Pages ou outro alojamento estático.
+
+## Estrutura
+- `index.html` — conteúdo e secções do website.
+- `style.css` — identidade visual e adaptação a telemóveis/computadores.
+- `script.js` — menu interactivo para dispositivos móveis.
+
+## Nota académica
+As referências apresentadas são fontes institucionais recomendadas para consulta. O grupo deve consultar os documentos concretos utilizados e completar os dados bibliográficos exigidos pelo professor antes da entrega.
